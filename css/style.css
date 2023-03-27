@@ -1,0 +1,44 @@
+*
+{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+.row{
+		display:flex;
+		margin-top:40px;
+	}
+
+.col{
+		width:25%;
+		padding:12px;
+	}
+
+img{
+		width:100%;
+	}
+	
+.col-card{
+	box-shadow:0 0 10px #ccc;
+	line-height:20px;
+	}
+	
+.col-card h2{
+	font-size:17px;
+	padding-top:30px;
+}
+
+.col-card p{
+	color: #686b78;
+    font-size: 13px;
+	padding-bottom:30px;
+}
+
+	
+span{
+		color:white;
+		padding:5px;
+		margin:5px;
+		margin-bottom:40px;
+}
